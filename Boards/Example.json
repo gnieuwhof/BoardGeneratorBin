@@ -1,0 +1,40 @@
+{
+  "Areas": [
+    {
+      "Name": "Area1",
+      "X": 0,
+      "Y": 0,
+      "Z": 0,
+      "Width": 100,
+      "Height": 100
+    },
+    {
+      "Name": "Area2",
+      "X": 0,
+      "Y": 100,
+      "Z": 0,
+      "Width": 100,
+      "Height": 100,
+      "Folder": "Area Two"
+    },
+    {
+      "Name": "Area3",
+      "X": 100,
+      "Y": 0,
+      "Z": 0,
+      "Width": 100,
+      "Height": 100,
+      "Group": "Right"
+    },
+    {
+      "Name": "Area4",
+      "X": 100,
+      "Y": 100,
+      "Z": 0,
+      "Width": 100,
+      "Height": 100,
+      "Group": "Right",
+      "Exclusive": true
+    }
+  ]
+}
